@@ -1,0 +1,26 @@
+{
+  "name": "backend_authentication_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliRauf1952/Backend_Authentication_System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliRauf1952/Backend_Authentication_System/issues"
+  },
+  "homepage": "https://github.com/AliRauf1952/Backend_Authentication_System#readme",
+  "keywords": [],
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.7"
+  }
+}
